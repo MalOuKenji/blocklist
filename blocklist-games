@@ -2,7 +2,7 @@
 # Homepage: https://github.com/MalOuKenji/blocklist
 # Source : https://dsi.ut-capitole.fr/blacklists/index_en.php
 # Direct URL : https://dsi.ut-capitole.fr/blacklists/download/games.tar.gz
-# Updated: July 03, 2025
+# Updated: December 10, 2025
 # Syntax: Domains Wildcard (without subdomains)
 #
 *.0000100.com
@@ -33687,3 +33687,8 @@
 *.zzt.org
 *.zztreview.iwarp.com
 *.emugames.com
+*.twoplayergames.org
+*.deadshot.io
+*.roblox.com
+*.yandex.com
+*.pokerogue.net
